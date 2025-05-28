@@ -26,10 +26,4 @@ This project analyzes adverse effects of antiviral drugs using data from the FAE
 ## 📁 Files
 
 - `code.ipynb`: Main analysis notebook
-- `docs/Adverse Effects Analysis for Antiviral Drugs.docx`: Detailed documentation
-
-## 👥 Team Members
-
-Akshith Aluri, Deekshitha Annreddy, Jeevan Madishetty, Jyothi Anjan Manini,  
-Lakshmichatura Medidi, Phaneendra Reddy Naredla, Prachet Maruneni,  
-Rukmini Devi Yadavalli, Tanishq Mekala
+- `docs/Adverse Effects Analysis for Antiviral Drugs.docx`: Detailed documentation.
